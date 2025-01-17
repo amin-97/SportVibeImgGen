@@ -43,3 +43,4 @@ babel.config.js
 image.d.ts
 metro.config.js
 nativewind-env.d.ts
+eas.json
